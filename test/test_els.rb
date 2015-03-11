@@ -5,7 +5,7 @@ class TestEls < Minitest::Test
     refute_nil ::Els::VERSION
   end
 
-  def test_it_does_something_useful
-    assert false
-  end
+  # def test_it_does_something_useful
+  #   assert false
+  # end
 end
